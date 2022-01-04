@@ -3,5 +3,4 @@ function howManyHundreds (num) {
   return Math.floor(hundreds);
 };
 
-
 console.log(howManyHundreds(896));
